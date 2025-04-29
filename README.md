@@ -9,7 +9,7 @@ An Android app built with **Jetpack Compose** and **Google ML Kit Document Scann
 
 ## 🚀 Features
 
-- 📸 Scan documents using camera or import from gallery  
+- 📸 SCan documents using camera or import from gallery  
 - 🖼️ View scanned pages in-app using **Coil** image loader  
 - 📄 Save scanned documents as PDF to local storage  
 - 🎨 Modern UI built with Jetpack Compose  
